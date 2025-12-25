@@ -1,0 +1,15 @@
+{
+  "name": "Booking Pro",
+  "slug": "booking-pro",
+  "version": "1.0.5",
+  "author": "Bipin Khatri",
+  "requires": "5.0",
+  "requires_php": "7.4",
+  "tested": "6.6",
+  "download_url": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID",
+  "sections": {
+    "description": "foo",
+    "changelog": "bar",
+    "custom_section": "<em>baz</em>"
+  }
+}
